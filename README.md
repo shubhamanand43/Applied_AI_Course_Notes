@@ -1,1 +1,1 @@
-# Applied_AI_Course_Notes
+## Applied_AI_Course_Notes
